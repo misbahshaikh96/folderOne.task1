@@ -1,4 +1,4 @@
 tis is my file two for gitcousrse`
 2025 footer note added
 get some code in github
-git remote add origin https://github.com/misbahshaikh96/folderOne.task1.git
+git remote add origin https://github.com/misbahshaikh96/folderOne.task1.gitgit remote add origin https://github.com/misbahshaikh96/folderOne.task1.git
